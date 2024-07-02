@@ -1,0 +1,19 @@
+To add a computer to a domain and you don't know the domain try echo %USERDOMAIN% on the server to get the domain. 
+then go to control panel > system > rename this pc (advanced) > Network ID
+https://www.google.com/search?client=firefox-b-1-d&q=can+you+set+dns+and+dhcp+on+the+same+ip+address
+https://learn.microsoft.com/en-us/windows-server/networking/technologies/dhcp/quickstart-install-configure-dhcp-server?tabs=powershell
+https://learn.microsoft.com/en-us/powershell/module/activedirectory/new-aduser?view=windowsserver2022-ps
+https://learn.microsoft.com/en-us/windows/security/operating-system-security/device-management/windows-security-configuration-framework/windows-security-baselines
+https://www.reddit.com/r/sysadmin/comments/pk535k/how_to_become_a_windows_sysadmin/
+https://community.spiceworks.com/t/create-helpdesk-permisions-for-active-directory/1012255
+https://stigviewer.com/stigs
+https://wazuh.com/
+https://community.spiceworks.com/t/create-helpdesk-permisions-for-active-directory/1012255
+https://forums.virtualbox.org/viewtopic.php?t=104570
+https://learn.microsoft.com/en-us/troubleshoot/windows-server/networking/install-configure-dhcp-server-workgroup
+https://serverspace.us/support/help/how-to-configure-a-dhcp-server-in-windows-server-2016/?utm_source=google.com&utm_medium=organic&utm_campaign=google.com&utm_referrer=google.com
+https://www.youtube.com/watch?v=h_8PP1m0Tkc
+https://learn.microsoft.com/en-us/powershell/module/activedirectory/enable-adaccount?view=windowsserver2022-ps
+https://www.convertcsv.com/generate-test-data.htm
+https://learn.microsoft.com/en-us/powershell/module/activedirectory/?view=windowsserver2019-ps
+http://download.virtualbox.org/virtualbox
