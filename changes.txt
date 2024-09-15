@@ -1,0 +1,29 @@
+changed /etc/hosts/ so that computer should be pettanko on next boot we'll see.
+did not work so used the 'hostnamectl set-hostname' command to set the hostname
+https://unix.stackexchange.com/questions/728955/why-is-the-root-filesystem-so-small-on-a-clean-fedora-37-install 
+https://linuxhandbook.com/linux-list-disks/
+expanded pettanko size due to fedora only taking up 15G for some reason on install
+https://immich.app/docs/overview/introduction/
+https://docs.docker.com/get-docker/
+https://docs.docker.com/engine/install/fedora/
+https://docs.redhat.com/en/documentation/red_hat_enterprise_linux/7/html/virtualization_deployment_and_administration_guide/sect-guest_virtual_machine_installation_overview-creating_guests_with_virt_install#sect-Guest_virtual_machine_installation_overview-virt_install-network_installation
+https://docs.fedoraproject.org/en-US/quick-docs/virtualization-getting-started/
+https://docs.fedoraproject.org/en-US/quick-docs/virtualization-getting-started/
+https://superuser.com/questions/1640368/virsh-edit-error-failed-to-get-domain
+
+https://docs.redhat.com/en/documentation/red_hat_enterprise_linux/7/html/virtualization_deployment_and_administration_guide/chap-network_configuration#sect-Network_configuration-Network_Address_Translation_NAT_with_libvirt
+https://www.howtogeek.com/820154/list-users-in-a-group-linux/
+https://www.linux-kvm.org/page/Networking
+https://docs.redhat.com/en/documentation/Red_Hat_Enterprise_Linux/7/html/virtualization_deployment_and_administration_guide/index
+https://unix.stackexchange.com/questions/207012/how-to-send-upload-a-file-from-host-os-to-guest-os-in-kvmnot-folder-sharing
+added qbittorrent. also you need to manually unblock ports for certain services lol
+https://superuser.com/questions/1758318/qbittorrent-nox-on-fedora-server-no-remote-web-ui-access
+sudo firewall-cmd --add-port 8080/tcp
+changed default editor so sudo -E uses nano instead of vim
+https://www.a2hosting.com/kb/developer-corner/linux/setting-the-default-text-editor-in-linux/
+https://unix.stackexchange.com/questions/502685/how-to-change-default-text-editor-for-virsh-edit
+https://wiki.libvirt.org/Networking.html#virsh-net-update
+https://superuser.com/questions/495759/why-is-ping-unable-to-resolve-a-name-when-nslookup-works-fine
+how to add network connections
+https://askubuntu.com/questions/377687/how-do-i-connect-to-a-wifi-network-using-nmcli
+
